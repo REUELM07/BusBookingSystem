@@ -4,3 +4,6 @@ A simple Bus Booking and Tracking System developed as part of SIT217. The system
 ## Update
 
 Added initial bus booking program with basic functionality.
+
+## Update
+Added improvements in booking system.
